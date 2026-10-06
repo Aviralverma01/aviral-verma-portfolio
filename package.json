@@ -1,0 +1,16 @@
+{
+  "name": "aviral-verma-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "gsap": "^3.13.0",
+    "lucide-react": "^0.468.0",
+    "motion": "^12.23.24",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {"@types/node":"^20.17.57","@types/react":"^19.0.8","@types/react-dom":"^19.0.3","typescript":"^5.8.3","tailwindcss":"^4.1.13","@tailwindcss/postcss":"^4.1.13"}
+}
